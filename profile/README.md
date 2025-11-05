@@ -1,6 +1,6 @@
 <div align="center">
   
-# Vaibhav Code Club
+# EkaAI Tech Solutions
 
 Welcome to the Vaibhav Code Club GitHub organization! maintained by [@sapatevaibhav](https://github.com/sapatevaibhav).
 
