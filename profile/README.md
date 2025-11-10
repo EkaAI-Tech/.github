@@ -2,10 +2,10 @@
   
 # EkaAI Tech Solutions
 
-Welcome to the Vaibhav Code Club GitHub organization! maintained by [@sapatevaibhav](https://github.com/sapatevaibhav).
+Welcome to the EkaAi GitHub organization!.
 
 ## About Us
-Vaibhav Code Club is a community of passionate developers who love to collaborate and build amazing projects together.
+EkaAi is a group of passionate developers who love to collaborate and build amazing projects together.
 
 ## Contribution Guidelines
 - Fork the repository.
@@ -13,5 +13,5 @@ Vaibhav Code Club is a community of passionate developers who love to collaborat
 - Submit a pull request.
 
 ## Contact Us
-If you have any questions or suggestions, feel free to reach out to us at sapatevaibhav@duck.com.
+If you have any questions or suggestions, feel free to reach out to us at contact@ekaai.tech.
 </div>
